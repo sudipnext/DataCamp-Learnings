@@ -5,6 +5,11 @@ SQL stands for structured Query Language commonly used in databases and the worl
 Select is used to select the data from the columns.
 If i want to select a single column name from the columns 
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Id | Name | Roll | Class |
+| :---: | :---: | :---: | :---: |
+| 1 | 301 | 283 |     |
+| 2 |     |     |     |
+| 3 | 301 | 283 |     |
+| 4 |     |     |     |
+| 5 | 301 | 283 |     |
+| 6 |     |     |     |
